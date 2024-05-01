@@ -9,10 +9,10 @@ import (
 var DB *sql.DB
 
 func InitializeDB() {
-	var err error // to not shadow the global db with declaration DB, err :=
+	var err error // do not shadow the global db with declaration DB, err :=
 	DB, err = sql.Open("sqlite3", "api.db")
 	if err != nil {
-		panic("Could not connect to database.")
+		panic("Could not connect to the database.")
 	}
 
 	DB.SetMaxOpenConns(10)
