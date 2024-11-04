@@ -1,6 +1,6 @@
 # My Lorem Ipsum Rest API 
 
-Welcome to my "Ipsum Lorem" REST API! This project, named 'My Ipsum Lorem' REST API, is a fully functional demonstration of a REST API implementation. The term 'Ipsum Lorem' is a nod to the placeholder text commonly used in design and publishing, indicating that while the API is complete and functional, it lacks a specific real-world purpose or meaningful content. 
+Welcome to my "Lorem Ipsum" REST API! This project, named 'My Lorem Ipsum REST API', is a fully functional demonstration of a REST API implementation. The term 'Lorem Ipsum' is a nod to the placeholder text commonly used in design and publishing, indicating that while the API is complete and functional, it lacks a specific real-world purpose or meaningful content. 
 
 The project is an implementation of a REST API with authentication, JWT (JSON Web Token) support, password hashing, and CRUD (Create, Read, Update, Delete) operations. It utilizes an SQLite database for data storage.
 
