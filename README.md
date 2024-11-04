@@ -1,4 +1,4 @@
-# My Ipsum Lorem Rest API 
+# My Lorem Ipsum Rest API 
 
 Welcome to my "Ipsum Lorem" REST API! This project, named 'My Ipsum Lorem' REST API, is a fully functional demonstration of a REST API implementation. The term 'Ipsum Lorem' is a nod to the placeholder text commonly used in design and publishing, indicating that while the API is complete and functional, it lacks a specific real-world purpose or meaningful content. 
 
